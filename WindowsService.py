@@ -21,7 +21,10 @@ BLOCKED_PROCESSES = [
     "RobloxPlayerInstaller.exe",
     "RobloxStudioInstaller.exe",
     "RobloxPlayerBeta.exe",
-    "RobloxCrashHandler.exe"
+    "RobloxCrashHandler.exe",
+    "CrashHandler.exe",
+    "Windows10Universal.exe",
+    
 ]
 
 ROBLOX_FOLDER_PATH = os.path.join(os.getenv("LOCALAPPDATA"), "Roblox")
