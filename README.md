@@ -26,7 +26,7 @@ Unix:
 ```sc create Windows Service binPath= "путь к Windows Service.exe" start= auto```  
 ```sc start Windows Service```  
 Удаление:
-```sc stop Windows Service```
+```sc stop Windows Service```  
 ```sc delete Windows Service```  
 И удалить файла.  
 
